@@ -14,4 +14,9 @@
   /* Extended BreakPoints  */
   --breakpoint-xl: 1280px;
   --breakpoint-2xl: 1536px;
+  /* --padding-10: 10px;
+  --padding-1: 50px; */
+  /* --padding-c-50: 50px;
+  --padding-c-10: 10px;
+same as it is height width size margin */
 }
